@@ -13,5 +13,14 @@
     "nodemon": "^2.0.19",
     "request": "^2.88.2"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EBol95/Newsletter-Signup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EBol95/Newsletter-Signup/issues"
+  },
+  "homepage": "https://github.com/EBol95/Newsletter-Signup#readme",
   "description": ""
 }
